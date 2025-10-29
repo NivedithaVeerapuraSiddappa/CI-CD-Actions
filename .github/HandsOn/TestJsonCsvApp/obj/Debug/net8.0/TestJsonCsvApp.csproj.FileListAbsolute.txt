@@ -12,3 +12,4 @@ C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\refint\Test
 C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.pdb
 C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.genruntimeconfig.cache
 C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\ref\TestJsonCsvApp.dll
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.sourcelink.json
