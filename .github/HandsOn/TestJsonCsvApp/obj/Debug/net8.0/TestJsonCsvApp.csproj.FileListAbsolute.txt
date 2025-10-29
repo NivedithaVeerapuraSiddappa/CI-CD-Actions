@@ -1,0 +1,14 @@
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\bin\Debug\net8.0\TestJsonCsvApp.exe
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\bin\Debug\net8.0\TestJsonCsvApp.deps.json
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\bin\Debug\net8.0\TestJsonCsvApp.runtimeconfig.json
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\bin\Debug\net8.0\TestJsonCsvApp.dll
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\bin\Debug\net8.0\TestJsonCsvApp.pdb
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.AssemblyInfoInputs.cache
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.AssemblyInfo.cs
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.csproj.CoreCompileInputs.cache
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.dll
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\refint\TestJsonCsvApp.dll
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.pdb
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\TestJsonCsvApp.genruntimeconfig.cache
+C:\CME\GitHubCopilot\.github\HandsOn\TestJsonCsvApp\obj\Debug\net8.0\ref\TestJsonCsvApp.dll

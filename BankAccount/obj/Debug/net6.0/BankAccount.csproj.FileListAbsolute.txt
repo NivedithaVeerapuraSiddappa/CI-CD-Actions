@@ -1,0 +1,14 @@
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\BankAccount.GeneratedMSBuildEditorConfig.editorconfig
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfoInputs.cache
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\BankAccount.AssemblyInfo.cs
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\BankAccount.csproj.CoreCompileInputs.cache
+c:\CME\GitHubCopilot\BankAccount\bin\Debug\net6.0\BankAccount.exe
+c:\CME\GitHubCopilot\BankAccount\bin\Debug\net6.0\BankAccount.deps.json
+c:\CME\GitHubCopilot\BankAccount\bin\Debug\net6.0\BankAccount.runtimeconfig.json
+c:\CME\GitHubCopilot\BankAccount\bin\Debug\net6.0\BankAccount.dll
+c:\CME\GitHubCopilot\BankAccount\bin\Debug\net6.0\BankAccount.pdb
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\BankAccount.dll
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\refint\BankAccount.dll
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\BankAccount.pdb
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\BankAccount.genruntimeconfig.cache
+c:\CME\GitHubCopilot\BankAccount\obj\Debug\net6.0\ref\BankAccount.dll
